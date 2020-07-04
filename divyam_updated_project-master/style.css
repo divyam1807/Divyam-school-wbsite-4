@@ -1,0 +1,53 @@
+h1{
+    color: green;
+   
+}
+
+.head{
+    display: flex; 
+    justify-content:space-evenly ;
+    background-color: #359da1;
+}
+.con{
+    flex-direction: column;
+}
+.class{
+    display: flex; 
+    justify-content:around ;
+}
+.cord{
+    order: 5;
+}
+.jpg{
+    order: 5;
+    
+  
+}
+.pdf{
+    display:flex; 
+    justify-content : space-evenly ;
+    background-attachment: #922525 
+   
+    
+}
+
+.head{
+    margin-top: 50px;   
+}
+
+
+a:link{
+    color: chocolate;
+}
+a:visited{
+    color: crimson;
+}
+
+.head a{
+    
+opacity: 0;
+
+}
+.head:hover a{
+    opacity: 1;
+}
